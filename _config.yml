@@ -1,9 +1,9 @@
 #------------------------------------------------------------------------------------------------
 # Site settings
-title: My Ph.D Journey
-SEOTitle: Oeek's Blog 
+title: Information Science and Computer Science Postgraduate Symposium 2019
+SEOTitle: ISCSPS2019
 header-img: img/post-bg-miui6.jpg
-email: yiwang.otago@gmail.com
+email: 2019.iscs@gmail.com
 # description: "Test"
 # keyword: "Data Analysis, Machine Learning, Network Management, and DayDreaming."
 # url: "http://WangYiOtago.github.io"          # your host, for absolute URL
@@ -12,9 +12,9 @@ email: yiwang.otago@gmail.com
 
 #------------------------------------------------------------------------------------------------
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
-sidebar-avatar: /img/Oeek.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar:                            # whether or not using Sidebar.
+# sidebar-about-description: ""
+# sidebar-avatar: /img/Oeek.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 #------------------------------------------------------------------------------------------------
 # SNS settings
@@ -24,7 +24,7 @@ sidebar-avatar: /img/Oeek.jpg      # use absolute URL, seeing it's used in both 
 # github_username:    
 # facebook_username:  
 # jianshu_username:   
-#twitter_username:
+# twitter_username:
 
 #------------------------------------------------------------------------------------------------
 # Build settings
