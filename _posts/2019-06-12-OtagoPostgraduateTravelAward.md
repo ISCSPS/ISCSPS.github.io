@@ -1,9 +1,9 @@
 ---
 layout:     post                          
-title:      David Wang's talk at Otago Museum
-subtitle:   Otago Postgraduate Travel Award 2019
+title:      Text + Video
+subtitle:   Subtitle
 date:       2019-06-12
-author:     Oeek                          
+author:     David Wang                         
 header-img: img/post-bg-re-vs-ng2.jpg          
 catalog:    True                             
 tags:
